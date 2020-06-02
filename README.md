@@ -1,2 +1,3 @@
-# -blogSpring
-Curso de Spring Boot com Thymeleaf, Bootstrap, PostgreSQL e Spring Security mostrando o passo a passo de como construir um blog.
+# produtos-apirest
+API REST de produtos com Swagger-ui
+
